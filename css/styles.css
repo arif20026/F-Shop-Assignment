@@ -61,3 +61,6 @@ button {
 .our-featured-flower{
     padding-left: 764px;
 }
+.delivery{
+    display: flex;
+}
